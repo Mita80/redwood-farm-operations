@@ -95,7 +95,7 @@ Privacy Policy:
 https://github.com/Mita80/redwood-farm-operations/blob/main/PRIVACY_POLICY.md
 
 Terms of Use:  
-
+https://github.com/Mita80/redwood-farm-operations/blob/main/TERM_OF_USE.md
 
 About Page:  
 https://github.com/Mita80/redwood-farm-operations/blob/main/ABOUT.md
