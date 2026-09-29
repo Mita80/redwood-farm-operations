@@ -92,12 +92,13 @@ These documents explain how data is collected, stored, and protected.
 📄 Documentation Links
 
 Privacy Policy:  
+https://github.com/Mita80/redwood-farm-operations/blob/main/PRIVACY_POLICY.md
 
 Terms of Use:  
-https://github.com/Mita80/redwood-farm-operations/blob/main/TERMS_OF_USE.md
+
 
 About Page:  
-https://github.com/Mita80/redwood-farm-operations/blob/main/ABOUT.md
+
 
 🏢 Developer & Ownership
 EzyGo Innovations Limited  
